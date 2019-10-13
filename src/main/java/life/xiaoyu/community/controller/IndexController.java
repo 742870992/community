@@ -1,4 +1,4 @@
-package life.majiang.community.controller;
+package life.xiaoyu.community.controller;
 
 /**
  * @ClassName:HelloController
